@@ -51,7 +51,7 @@ namespace GradingLetterMark
 
             if (mark == "Unable to calculate")
             {
-                MessageBox.Show("Cannot calculate grade");
+                MessageBox.Show("Invalid Entry Entered - Cannot calculate grade");
             }
             else
             {
